@@ -38,11 +38,19 @@ Write the detailed procedure here
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: SWETHA.S
 RegisterNumber: 212222230155
+Program for full subtractor:
 module ex4(A,B,bin,diff,borrow);
 input A,B,bin;
 output diff,borrow;
 assign diff= A^B^bin;
 assign borrow = ((~A)&B)|(B&bin)|((~A)&bin);
+endmodule
+Program for half subtractor:
+module ex4 (a,b,diff,borr) ;
+input a,b ;
+output diff,borr;
+assign diff = (a^b) ;
+assign borr = ((~a)&b) ;
 endmodule
 */
 ```
