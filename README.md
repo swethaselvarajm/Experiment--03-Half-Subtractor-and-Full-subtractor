@@ -26,11 +26,11 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
+1.Connect the supply (+5V) to the circuit.
 
+2.Switch ON the main switch.
 
-
-Write the detailed procedure here 
-
+3.If the output is 1, then the led glows.
 
 ## Program:
 ```
@@ -56,9 +56,11 @@ endmodule
 ```
 ## RTL realization:
 HALF SUBTRACTOR:
+
 ![Screenshot 2023-09-13 230337](https://github.com/swethaselvarajm/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119525603/57b75e63-0ece-488f-a415-3b7d4b62632e)
 
 FULL SUBTRACTOR:
+
 ![image](https://github.com/swethaselvarajm/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119525603/a021d435-8630-4dc1-95a1-f4dcfddfe704)
 
 ## Output Waveform:
