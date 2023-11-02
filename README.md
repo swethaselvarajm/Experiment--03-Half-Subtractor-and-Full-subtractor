@@ -55,9 +55,13 @@ endmodule
 */
 ```
 ## RTL realization:
+HALF SUBTRACTOR:
 ![Screenshot 2023-09-13 230337](https://github.com/swethaselvarajm/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119525603/57b75e63-0ece-488f-a415-3b7d4b62632e)
 
-## Output:
+FULL SUBTRACTOR:
+![image](https://github.com/swethaselvarajm/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119525603/a021d435-8630-4dc1-95a1-f4dcfddfe704)
+
+## Output Waveform:
 ![Screenshot 2023-09-13 230746](https://github.com/swethaselvarajm/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119525603/35cebaf3-d8e8-4d63-bed6-a747e560eb62)
 
 ![Screenshot 2023-09-13 231835](https://github.com/swethaselvarajm/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119525603/c1062f63-3401-49ef-b402-4c2711082e7b)
